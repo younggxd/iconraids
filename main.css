@@ -1,0 +1,31 @@
+img {
+  width:500px;
+  border: 5px solid;
+  margin:30px;
+  
+}
+
+a {
+ font-size:40px;
+ color:red;
+}
+
+h1 {
+  color: white;
+}
+
+.menu a {
+  text-decoration: none;
+  border: 1px solid white;
+  padding: 4px;
+  background-color:white;
+}
+
+.menu a:hover {
+  background-color:black;
+}
+
+.menu {
+  list-style: none;
+  float: right;
+  }
