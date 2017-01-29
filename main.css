@@ -28,4 +28,9 @@ h1 {
 .menu {
   list-style: none;
   float: right;
-  }
+ }
+body:{
+  background-image:url("https://media.tenor.co/images/360f495a4baa4e8e40d6abdd2aa8a50d/raw");
+  background-repeat : no-repeat;
+  background-size: cover;
+}
